@@ -1,5 +1,5 @@
 #student_manager_system
-
+#123456
 class StudentModel:
     '''
     学生模型
