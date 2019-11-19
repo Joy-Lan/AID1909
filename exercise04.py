@@ -1,4 +1,4 @@
-# class Person:
+# class Person123456
 #     def __init__(self,name):
 #         self.name = name
 #
@@ -15,8 +15,7 @@
 #     def run(self):
 #         print('走你～')
 #
-# class Airplane:
-＃远程更新 
+# class Airp
 
 
 
